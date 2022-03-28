@@ -1,6 +1,6 @@
-# Facial-Recoginition-using-Python
+# Facial-Recognition-using-Python
 
-Simple Facial Recoginition using OpenCV,dlib and face_recoginition libraries in python
+Simple Facial Recognition using OpenCV,dlib and face_recognition libraries in python
 
 
 Refrence:https://www.mygreatlearning.com/blog/face-recognition/
